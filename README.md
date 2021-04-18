@@ -1,1 +1,2 @@
-[![Mo Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/myaxyo/github-readme-stats)
+[![Mo Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=myaxyo)](https://github.com/myaxyo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myaxyo&layout=compact)](https://github.com/myaxyo/github-readme-stats)
