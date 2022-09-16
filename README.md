@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a React and NodeJS developer 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently trying to be MERN Developer 😅
 - 💪🏼 Future Goals: Learning anything with Javascript!.
-- ⚡ Fun fact: Sometimes I go to gym!.
+- ⚡ Fun fact: I love Ruby!
 
 ---
 
@@ -23,10 +23,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][https://www.instagram.com/mo_coder]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="Muhammadjon Yakhyoev | LinkedIn" height="30px" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg"/>][linkedin]
+[<img align="left" alt="Modev | Instagram" height="30px" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" />][instagram]
 
 <br />
 
@@ -77,4 +75,3 @@
 
 [instagram]: https://www.instagram.com/mo_coder
 [linkedin]: https://www.linkedin.com/in/myaxyo/
-[Spotify]: https://open.spotify.com/user/cm7usof8v1oyys2or65s32unj
