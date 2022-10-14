@@ -40,7 +40,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Terminal](http://img.shields.io/badge/-Terminal-5391FE?style=flat-square&logo=Terminal&logoColor=ffffff)
+![Terminal](http://img.shields.io/badge/-Terminal-5391FE?style=flat-square&logo=terminal&logoColor=ffffff)
 ![Postgress](http://img.shields.io/badge/-PostgreSQL-0078D6?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-000000?style=flat-square&logo=apple&logoColor=ffffff)
 
