@@ -9,13 +9,7 @@
 - 💪🏼 Future Goals: Learning anything with Javascript!.
 - ⚡ Fun fact: I love Ruby!
 
----
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/cm7usof8v1oyys2or65s32unj)
 
 ---
 
